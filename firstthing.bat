@@ -9,7 +9,7 @@ ECHO bro im gonna disappear from your screen if you keep doing it :0
 PAUSE
 ECHO no pls
 PAUSE
-ECHO i said NO
+ECHO i said NO!!!!
 PAUSE
 ECHO BRO WTF PLS ISTG NO AAAAAAAA
 PAUSE
