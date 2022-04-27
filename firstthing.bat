@@ -5,7 +5,7 @@ ECHO wait why did you press that key?
 PAUSE
 ECHO please don't press any key, preson... i'll get out if you keep pressing keys
 PAUSE
-ECHO im gonna disappear from your screen if you keep doing it :0
+ECHO bro im gonna disappear from your screen if you keep doing it :0
 PAUSE
 ECHO no pls
 PAUSE
